@@ -1,0 +1,2 @@
+# No external dependencies required
+# Built-in modules only (Python 3.x)
